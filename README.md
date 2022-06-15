@@ -58,6 +58,6 @@ Data Structure
 General Hints
 You may add any other code such as functions, data structures, etc. that you may want in order to better complete an exercise, beyond what is explicitly asked for. Feel free to reuse code for multiple exercises as well.
 
-If you would like to test your solutions, you may call the "testSolutions" function defined at the bottom of this document. It is not meant to be comprehensive, but if the function completes without throwing any errors then your code passes all of the simple test cases.
+If you would like to test your solutions, you may call the "testSolutions" function defined at the bottom of this document. It is not meant to be comprehensive, but if the function completes without throwing any errors then your code passes all of the simple test cases .
 
 
