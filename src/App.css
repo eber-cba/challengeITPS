@@ -1,3 +1,15 @@
-.App {
+body{
+    background-color: rgb(200, 133, 255)!important;
 }
 
+
+.pHome {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+ .cards{
+    display: flex;
+    justify-content: space-around;
+ }

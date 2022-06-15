@@ -73,7 +73,7 @@ export default function ExerciseFour() {
               </ul>
             );
           })}
-      <Button variant="dark">View code</Button>
+      <Button target="_blank" href="https://github.com/eber-cba/challengeITPS/blob/master/src/components/ExerciseFour.jsx" variant="dark">View code</Button>
      
     </div>
   );
